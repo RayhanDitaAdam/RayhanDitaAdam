@@ -29,8 +29,8 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanditaadam&theme=tokyonight&hide_border=true&layout=compact">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayhanditaadam&show_icons=true&theme=tokyonight&hide_border=true">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhandita&theme=tokyonight&hide_border=true&layout=compact">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayhandita&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 ---
