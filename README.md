@@ -29,8 +29,8 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanDitaAdam&theme=tokyonight&hide_border=true&layout=compact">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayhanDitaAdam&show_icons=true&theme=tokyonight&hide_border=true">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanditaadam&theme=tokyonight&hide_border=true&layout=compact">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rayhanditaadam&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -39,11 +39,7 @@
 
 <p align="left">
   <a href="mailto:rayhandita18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://linkedin.com/in/rayhan-dita-adam-riski">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&log.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://wa.me/6287774980362">
