@@ -30,7 +30,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanditaadam&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rayhanditaadam&theme=tokyonight&hide_border=true&layout=compact&hide=php,scss,blade,twig,css,html,json,yaml,markdown&langs_count=4" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rayhanditaadam&theme=tokyonight&hide_border=true&layout=compact&hide=php,scss,glsl,blade,twig,css,html,json,yaml,markdown&langs_count=4" />
 </p>
 
 ---
