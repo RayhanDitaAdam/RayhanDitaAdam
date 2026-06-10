@@ -26,11 +26,16 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub & Coding Stats</h2>
 
 <p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanditaadam&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rayhanditaadam&theme=tokyonight&hide_border=true&layout=compact&hide=php,scss,glsl,blade,twig,css,html,json,yaml,markdown&langs_count=4" />
+</p>
+
+<!-- WakaTime Weekly Coding Activity -->
+<p align="left">
+  <img width="97%" src="https://github-readme-wakatime.herokuapp.com/?username=rayhanditaadam&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -39,7 +44,11 @@
 
 <p align="left">
   <a href="mailto:rayhandita18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&log.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/rayhan-dita-adam-riski">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://wa.me/6287774980362">
