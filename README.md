@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 ---
