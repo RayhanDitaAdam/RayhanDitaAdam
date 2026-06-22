@@ -4,13 +4,13 @@
 
 <h1 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=5000&pause=1000&color=000000&width=600&lines=Rayhan+Dita+Adam+R." 
+    src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=5000&pause=1000&color=FFFFFF&width=600&lines=Rayhan+Dita+Adam+R." 
     alt="Typing SVG" 
   />
 </h1>
 
 <p align="left">
-  <b>Hater of Repetitive Work.</b>
+  <b>KISS(Keep It Simple Stupid)</b>
 </p>
 
 ---
