@@ -10,13 +10,12 @@
 </h1>
 
 <p align="left">
-  <b>KISS(Keep It Simple Stupid)</b>
+  <b>KISS (Keep It Simple Stupid)</b>
 </p>
 
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
-
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
